@@ -22,39 +22,43 @@ Data Analytics professional with 2+ years of experience in data cleaning, transf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </div>
+<br>
 
 **Analytics & Visualization:**  
-
 <div>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" width="40"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 </div>
+<br>
 
 **Machine Learning & Statistics:**  
-
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="40"/>
 </div>
+<br>
 
-**Tools & Platforms:** 
-
+**Tools & Platforms:**  
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/jira.png" width="40"/>
   <img src="https://img.icons8.com/color/48/google-colab.png" width="40"/>
   <img src="https://skillicons.dev/icons?i=postman" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://skillicons.dev/icons?i=anaconda" width="40"/>
 </div>
+<br>
 
 **Soft Skills:**  
 🧩 Problem-Solving • 🤔 Critical Thinking • 📊 Data Storytelling • 💬 Communication • 🤝 Team Collaboration
+
 
 ---
 
@@ -96,7 +100,7 @@ Use of pyhton make this game, you can play this game automatic with computer. Co
 
 ## 📜 Certificates
 
-- 🧑‍💻 **Prompt Engineering** (2025)  
+- 🧑‍💻 **Prompt Engineering** (Cognizant, 2025)  
 - 🤖 **Project Genius – Generative AI** (Cognizant, 2024)  
 - 📊 **Data Science** (Board Infinity, 2023)  
 - 📈 **Microsoft Excel** (Udemy, 2023)  
