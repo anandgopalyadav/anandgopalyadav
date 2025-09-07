@@ -48,6 +48,34 @@ Data Analytics professional with 2+ years of experience in data cleaning, transf
 
 ---
 
+**Programming & Data Handling:**  
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)  
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)  
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)  
+
+**Analytics & Visualization:**  
+[![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://matplotlib.org/)  
+[![Seaborn](https://skillicons.dev/icons?i=seaborn)](https://seaborn.pydata.org/)  
+[![Excel](https://skillicons.dev/icons?i=excel)](https://www.microsoft.com/en-us/microsoft-365/excel)  
+[![Power BI](https://skillicons.dev/icons?i=powerbi)](https://powerbi.microsoft.com/)  
+
+**Machine Learning & Statistics:**  
+[![NumPy](https://skillicons.dev/icons?i=numpy)](https://numpy.org/)  
+[![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)  
+[![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/)  
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)  
+
+**Tools & Platforms:**  
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  
+[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/)  
+[![Google](https://skillicons.dev/icons?i=google)](https://www.google.com/)  
+[![Jira](https://skillicons.dev/icons?i=jira)](https://www.atlassian.com/software/jira)  
+[![Google Colab](https://skillicons.dev/icons?i=colab)](https://colab.research.google.com/)  
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)  
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)  
+[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/)
+
 ## 💼 Experience
 
 **Process Executive — Cognizant Technology (Noida)**  
@@ -102,7 +130,17 @@ Use of pyhton make this game, you can play this game automatic with computer. Co
 - 🚀 Successfully applied **Machine Learning models** to solve real-world problems (House Price Prediction, Face Recognition Attendance) — Cognizant Technology Solution 
 
 ---
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anand-gopal-yadav-223964178/)  
+<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/anandgopalyadav)  
+<br>
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:anandgopal2001@gmail.com)  
+<br>
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/anandgopjuoo/)  
+<br>
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/anandgopal2001)  
+<br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Pz69nfWAtS/)
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anand-gopal-yadav-223964178/)  
