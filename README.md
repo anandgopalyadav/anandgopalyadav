@@ -13,30 +13,38 @@ Data Analytics professional with 2+ years of experience in data cleaning, transf
 ---
 
 ## 🛠️ Skills
-**Programming & Data Handling:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>  
 
-**Analytics & Visualization:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/> 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>  
 
-**Machine Learning & Statistics:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>  
+Programming & Data Handling:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 
-**Tools & Platforms:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/> 
-<img src="https://img.icons8.com/color/48/jira.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/google-colab.png" width="40"/>  
+Analytics & Visualization:
+<img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40"/>
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+
+Machine Learning & Statistics:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://www.tensorflow.org/images/tf_logo_social.png" width="40"/>
+
+Tools & Platforms:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/jira.png" width="40"/>
+<img src="https://img.icons8.com/color/48/google-colab.png" width="40"/>
+<img src="https://img.icons8.com/fluency/48/postman-api.png" width="40"/>
+<img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Anaconda_Logo.svg" width="40"/>
+
+Soft Skills:
+🧩 Problem-Solving • 🤔 Critical Thinking • 📊 Data Storytelling • 💬 Communication • 🤝 Team Collaboration
 
 **Soft Skills:**  
 🧩 Problem-Solving • 🤔 Critical Thinking • 📊 Data Storytelling • 💬 Communication • 🤝 Team Collaboration  
