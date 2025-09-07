@@ -10,71 +10,48 @@
 ## 💡 About Me
 
 Data Analytics professional with 2+ years of experience in data cleaning, transformation, automation, and visualization using Python, SQL, Tableau, and BI tools. Skilled in developing scalable data pipelines, building interactive dashboards, and applying predictive ML models to deliver actionable insights. Passionate about leveraging Data Science and Machine Learning to solve real-world problems and drive data-informed decision-making
+
 ---
 
 ## 🛠️ Skills
 
 
-**Programming & Data Handling:** 
+**Programming & Data Handling:**  
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 
-**Analytics & Visualization:** 
-<img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40"/>
+**Analytics & Visualization:**  
+
+[![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://matplotlib.org/)
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 
-**Machine Learning & Statistics:** 
+**Machine Learning & Statistics:**  
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
 <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="40"/>
 
-**Tools & Platforms:** 
+**Tools & Platforms:**  
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
 <img src="https://img.icons8.com/color/48/jira.png" width="40"/>
 <img src="https://img.icons8.com/color/48/google-colab.png" width="40"/>
-<img src="https://img.icons8.com/fluency/48/postman-api.png" width="40"/>
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Anaconda_Logo.svg" width="40"/>
+[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) 
 
 **Soft Skills:** 
 🧩 Problem-Solving • 🤔 Critical Thinking • 📊 Data Storytelling • 💬 Communication • 🤝 Team Collaboration
 
 ---
-
-**Programming & Data Handling:**  
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)  
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)  
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)  
-
-**Analytics & Visualization:**  
-[![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://matplotlib.org/)  
-[![Seaborn](https://skillicons.dev/icons?i=seaborn)](https://seaborn.pydata.org/)  
-[![Excel](https://skillicons.dev/icons?i=excel)](https://www.microsoft.com/en-us/microsoft-365/excel)  
-[![Power BI](https://skillicons.dev/icons?i=powerbi)](https://powerbi.microsoft.com/)  
-
-**Machine Learning & Statistics:**  
-[![NumPy](https://skillicons.dev/icons?i=numpy)](https://numpy.org/)  
-[![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)  
-[![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/)  
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)  
-
-**Tools & Platforms:**  
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  
-[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/)  
-[![Google](https://skillicons.dev/icons?i=google)](https://www.google.com/)  
-[![Jira](https://skillicons.dev/icons?i=jira)](https://www.atlassian.com/software/jira)  
-[![Google Colab](https://skillicons.dev/icons?i=colab)](https://colab.research.google.com/)  
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)  
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)  
-[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/)
 
 ## 💼 Experience
 
@@ -130,24 +107,14 @@ Use of pyhton make this game, you can play this game automatic with computer. Co
 - 🚀 Successfully applied **Machine Learning models** to solve real-world problems (House Price Prediction, Face Recognition Attendance) — Cognizant Technology Solution 
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anand-gopal-yadav-223964178/)  
-<br>
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/anandgopalyadav)  
-<br>
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:anandgopal2001@gmail.com)  
-<br>
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/anandgopjuoo/)  
-<br>
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/anandgopal2001)  
-<br>
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Pz69nfWAtS/)
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anand-gopal-yadav-223964178/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/anandgopalyadav)  
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:anandgopal2001@gmail.com)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/anandgopjuoo/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/anandgopal2001)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/anandgopal2001)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Pz69nfWAtS/)
 
 
