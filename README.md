@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anand Gopal Yadav
 
-**Data Analytics Professional | Aspiring Data Scientist | Python • SQL • Tableau • ML**
+**Data Analytics Professional | Aspiring Data Scientist | Python • SQL • Tableau • Excel • ML**
 
 📍 Delhi, India | ✉️ [anandgopal2001@gmail.com](mailto:anandgopal2001@gmail.com)
  +91 7880558794
