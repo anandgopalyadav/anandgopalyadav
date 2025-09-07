@@ -23,15 +23,16 @@ Data Analytics professional with 2+ years of experience in data cleaning, transf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </div>
 
-**Analytics & Visualization:**  
+****Analytics & Visualization:****  
+
 <div>
-  <img src="https://skillicons.dev/icons?i=matplotlib" width="40"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 </div>
 
 **Machine Learning & Statistics:**  
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
@@ -39,7 +40,8 @@ Data Analytics professional with 2+ years of experience in data cleaning, transf
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="40"/>
 </div>
 
-**Tools & Platforms:**  
+**Tools & Platforms:** 
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
