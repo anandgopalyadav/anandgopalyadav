@@ -23,7 +23,7 @@ Data Analytics professional with 2+ years of experience in data cleaning, transf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </div>
 
-****Analytics & Visualization:****  
+**Analytics & Visualization:**  
 
 <div>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
