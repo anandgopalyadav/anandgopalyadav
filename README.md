@@ -46,22 +46,6 @@ Data Analytics professional with 2+ years of experience in data cleaning, transf
 **Soft Skills:** 
 🧩 Problem-Solving • 🤔 Critical Thinking • 📊 Data Storytelling • 💬 Communication • 🤝 Team Collaboration
 
-**Soft Skills:**  
-🧩 Problem-Solving • 🤔 Critical Thinking • 📊 Data Storytelling • 💬 Communication • 🤝 Team Collaboration  
-
-
-**Programming & Data Handling:**  
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,linux,sqlite &theme=dark)](https://skillicons.dev)
-
-**Analytics & Visualization:**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,arduino,git,github&theme=dark)](https://skillicons.dev)
-
-**Machine Learning & Stats:**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,arduino,git,github&theme=dark)](https://skillicons.dev)
-
-**Tools & Platforms:**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github&theme=dark)](https://skillicons.dev)  
-
 ---
 
 ## 💼 Experience
@@ -126,7 +110,8 @@ Use of pyhton make this game, you can play this game automatic with computer. Co
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:anandgopal2001@gmail.com)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/anandgopjuoo/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/anandgopal2001)
-<a href="https://leetcode.com/u/Pz69nfWAtS"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/></a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Pz69nfWAtS/)
+
 
 ---
 
