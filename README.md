@@ -26,9 +26,8 @@ Data Analytics professional with 2+ years of experience in data cleaning, transf
 
 **Analytics & Visualization:**  
 <div>
-  <img src="https://skillicons.dev/icons?i=matplotlib" width="40"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 </div>
 <br>
