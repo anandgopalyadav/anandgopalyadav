@@ -3,13 +3,16 @@
 **Data Analytics Professional | Aspiring Data Scientist | Python • SQL • Tableau • Excel • ML**
 
 📍 Delhi, India | ✉️ [anandgopal2001@gmail.com](mailto:anandgopal2001@gmail.com)
- +91 7880558794
+ | 📱 +91 7880558794
 
 ---
 
 ## 💡 About Me
 
 Data Analytics professional with 2+ years of experience in data cleaning, transformation, automation, and visualization using Python, SQL, Tableau, and BI tools. Skilled in developing scalable data pipelines, building interactive dashboards, and applying predictive ML models to deliver actionable insights. Passionate about leveraging Data Science and Machine Learning to solve real-world problems and drive data-informed decision-making
+
+![Profile Views](https://komarev.com/ghpvc/?username=anandgopalyadav&label=Profile%20Views&color=blue&style=flat)
+
 
 ---
 
