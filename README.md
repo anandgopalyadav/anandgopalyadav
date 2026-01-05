@@ -89,7 +89,7 @@ Data Analytics professional with 2+ years of experience in data cleaning, transf
 🔹 <a href="https://github.com/anandgopalyadav/face_recognition"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> Face Recognition Attendance System</a>  
 *Python + OpenCV based ML system for automated attendance with Excel logging; reduced manual effort.*  
 
-🔹 **Snake Water Gun game**
+🔹 [**Snake Water Gun game**](https://github.com/anandgopalyadav/Snack_Water_Gun)
 Use of pyhton make this game, you can play this game automatic with computer. Coumputer will choose automatic you can choose anyone then display who win and what chosen by computer and your side. After when you exit from the game then it will show your score and play times.
 
 🔹 **House Price Prediction**  
