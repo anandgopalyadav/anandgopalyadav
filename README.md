@@ -66,8 +66,17 @@ Data Analytics professional with 2+ years of experience in data cleaning, transf
 
 ## 💼 Experience
 
+**Data Analyst — Artize Die Makers (Sonipat)**  
+*Dec 2025 – Present*  
+- ⚡ **Automated** end-to-end MIS reporting with Python and Google Apps Script, reducing manual work by **30–40%**.  
+- 📊  Used **regression-based forecasting** on historical sales data to support demand prediction.  
+- 🔍  Led sales and MIS analysis using Google Sheets, Excel, SQL, and Python, improving reporting accuracy by **25%.**.  
+- 🗄️  **Designed dashboards** for tracking sales, revenue, IMS, production KPIs, improving visibility and decision-making by **25%**.
+- 📈  Extracted, cleaned, and preprocessed large operational datasets using Python (Pandas, NumPy), ensuring high data quality and readiness for analysis and automation.  
+
+
 **Process Executive — Cognizant Technology (Noida)**  
-*Feb 2023 – Present*  
+*Feb 2023 – Nov 2025*  
 - ⚡ Automated **data pipelines** with Python & SQL → boosted efficiency by **30%**.  
 - 📊 Built **interactive Tableau dashboards** to track KPIs for decision-making.  
 - 🔍 Analyzed server performance using **Splunk** → reduced resolution time by **25%**.  
